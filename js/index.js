@@ -1,5 +1,5 @@
 const nuevoNombre= document.querySelector("H1")
-nuevoNombre.textContent= 'Natalia Roldan / Aprendiendo JavaScript';
+nuevoNombre.textContent= 'Natalia Roldán / Aprendiendo JavaScript';
 console.log(nuevoNombre);
 
 
