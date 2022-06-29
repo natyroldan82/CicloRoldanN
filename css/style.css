@@ -1,6 +1,7 @@
 html {
     box-sizing: border-box;
     font-size: 62.5%; /* 1 rem = 10px */    
+  
 }
 *, *:before, *:after {
     box-sizing: inherit;
@@ -40,4 +41,7 @@ h1{
     width: 190rem;
     text-align: center;
     padding: 5rem;
+}
+.ciclo{
+    background-color: rgb(93, 93, 130);
 }
